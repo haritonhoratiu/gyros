@@ -10,3 +10,5 @@ Proiectul reprezinta un giroscop
 * CSS
 * NodeJS with NPM
 
+
+![alt text](https://github.com/haritonhoratiu/gyros/blob/master/img.png "Logo Title Text 1")
