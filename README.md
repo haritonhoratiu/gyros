@@ -1,6 +1,7 @@
 # Giroscop 
 
 ##Autor: Hariton Horatiu
+
 ###Descriere:
 Proiectul reprezinta un giroscop
 
